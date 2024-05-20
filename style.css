@@ -14,11 +14,20 @@
     color: gray;
 }
 
-span {
+.the_booleaner {
     color: rgb(0, 183, 255);
 }
 
 .photo_tim {
     font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 20px;
+}
+
+.complete_lorem {
+    font-size: 25px;
+}
+
+.lorem {
+    background-color: yellow;
 }
 
