@@ -8,12 +8,14 @@
 
 header {
     background-image: url(./img/pattern.png);
+    background-size: contain ;
     background-color: rgb(0, 174, 255);
     margin-bottom: 10px;
-    height: 200px;
+    height: 100px;
+    padding-top: 40px;
 }
+
 .logo {
-    
     height: 50px;
 }
 
@@ -66,4 +68,26 @@ td {
 
 .color_row {
     background-color: rgba(151, 221, 253, 0.6);
+}
+
+.footer {
+    color: grey;
+}
+
+.photo_monitor {
+    font-size: 30px;
+    color: white;
+    background-image: url(./img/monitor.jpg);
+    width: 300px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+.photo_graph {
+    font-size: 30px;
+    color: white;
+    background-image: url(./img/graph.jpg);
+    width: 300px;
+    height: 200px;
+    margin-bottom: 10px;
 }
