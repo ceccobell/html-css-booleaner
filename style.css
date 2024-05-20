@@ -41,6 +41,18 @@ header {
 }
 
 ul { 
-    margin-left: 40px;
+    margin-left: 21px;
+    font-size: 25px;
+    margin-bottom: 25px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    width: 500px;
+    color: rgba(255, 255, 255, 0.938);
+    background-color: rgba(0, 162, 255, 0.603);
     font-size: 25px;
 }
