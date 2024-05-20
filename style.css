@@ -48,11 +48,22 @@ ul {
 
 table {
     border-collapse: collapse;
+    margin-bottom: 25px;
 }
 
-th {
+thead {
     width: 500px;
     color: rgba(255, 255, 255, 0.938);
-    background-color: rgba(0, 162, 255, 0.603);
+    background-color: rgba(0, 162, 255, 0.6);
     font-size: 25px;
+}
+
+td {
+    width: 500px;
+    height: 100px;
+    font-size: 20px;
+}
+
+.color_row {
+    background-color: rgba(151, 221, 253, 0.6);
 }
