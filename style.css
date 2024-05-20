@@ -12,6 +12,7 @@
 
 .footer {
     color: gray;
+    margin-bottom: 20px;
 }
 
 .the_booleaner {
@@ -25,9 +26,13 @@
 
 .complete_lorem {
     font-size: 25px;
+    margin-bottom: 25px;
 }
 
 .lorem {
     background-color: yellow;
 }
 
+ul {
+    font-size: 25px;
+}
